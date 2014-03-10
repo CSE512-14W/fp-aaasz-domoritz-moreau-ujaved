@@ -14,5 +14,5 @@ Our team of four is led by Dominik, who started working on a query visualization
 
 * **Umar Javed**: visualizing network data flow between workers
 * **Thierry Moreau**: visualizing query plan
-* **Dominik Moritz**: architect, data collection, back end and rest interfaces, interaction between visualizations
+* **Dominik Moritz**: architect, data collection, back end and rest interfaces, interaction between visualizations, performance optimizations for visualizations, network data flow visualization
 * **Adriana Szerkes**: visualizing query fragment execution
