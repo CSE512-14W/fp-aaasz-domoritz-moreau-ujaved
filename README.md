@@ -4,9 +4,11 @@
 
 https://docs.google.com/presentation/d/1vvu_ztk1ksxkgMR0752tF9ZTRvcfCX-Z_eUdUcBW-4I/pub?start=false&loop=false&delayms=3000
 
+
 ## Final project
 
-We are working inside the myria front end at https://github.com/uwescience/myria-web/tree/cse512. We'll include a link here soon.
+We are working inside the myria front end at https://github.com/uwescience/myria-web/tree/cse512. A slightly outdated but running version can be found at https://myria-vis.appspot.com/.
+
 
 ## Team Responsibilities
 
