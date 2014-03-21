@@ -18,3 +18,7 @@ Our team of four is led by Dominik, who started working on a query visualization
 * **Thierry Moreau**: visualizing query plan
 * **Dominik Moritz**: architect, data collection, back end and rest interfaces, interaction between visualizations, performance optimizations for visualizations, network data flow visualization
 * **Adriana Szerkes**: visualizing query fragment execution
+
+## Running Instructions
+
+Access our visualization at http://cse512-14w.github.io/fp-aaasz-domoritz-moreau-ujaved/ or download this repository and run `python -m SimpleHTTPServer 9000` and access this from http://localhost:9000/.
