@@ -7,10 +7,9 @@ Umar Javed, Thierry Moreau, Dominik Moritz, Adriana Szekeres
 https://docs.google.com/presentation/d/1vvu_ztk1ksxkgMR0752tF9ZTRvcfCX-Z_eUdUcBW-4I/pub?start=false&loop=false&delayms=3000
 
 
-## Final project
+## Source code
 
-We are working inside the myria front end at https://github.com/uwescience/myria-web/tree/cse512. A slightly outdated but running version can be found at https://myria-vis.appspot.com/.
-
+The source code can be found inside the myria front-end at https://github.com/uwescience/myria-web/tree/cse512.
 
 ## Team Responsibilities
 
