@@ -1,4 +1,6 @@
-# Query visualization
+# QuiViz: Visualizing Physical Query Execution in a Relational Big Data Management System
+Umar Javed, Thierry Moreau, Dominik Moritz, Adriana Szekeres
+
 
 ## Project progress status presentation
 
